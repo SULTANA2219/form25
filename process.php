@@ -1,9 +1,9 @@
 <?php
 //process.php
 $servername = "localhost";
-$username_db = "your_db_username";
-$password_db = "your_db_password";
-$dbname = "your_database_name";
+$username_db = "Sultana";
+$password_db = "1234";
+$dbname = "form.db";
 
 //Create connection
 $conn = new mysqli($servername, $username_db, $password_db, $dbname);
